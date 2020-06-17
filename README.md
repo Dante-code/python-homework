@@ -4,7 +4,7 @@
 ### 配置要求
 - 1.python3
 - 2.python的selenium库
-- 3.驱动程序chromedriver.exe
+- 3.驱动程序chromedriver.exe以及Chrome版本 83.0.4103.106
 
 ### 一些路径
 - 1.作业是专门爬取我们学校网站的教师信息。url是一开始就设定好的，不建议修改，因为这涉及到许多css选择器的抓取。
